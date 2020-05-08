@@ -1,0 +1,24 @@
+/* regole generali */
+* {
+  margin: 0;
+  padding: :0;
+  box-sizing: border-box;
+  }
+
+.schermata {
+  width: 100wp;
+  height: 550px;
+  margin: 3px;
+}
+
+.schermata.firenze {
+  background-image: url(../img/firenze.jpg);
+}
+
+.schermata.mosca {
+  background-image: url(../img/mosca.jpg);
+}
+
+.schermata.bangkok {
+  background-image: url(../img/Bangkok.jpg);
+}
